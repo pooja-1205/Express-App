@@ -1,0 +1,21 @@
+* {
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: black;
+}
+
+.box {
+    background-color: rgb(59, 98, 100);
+    color: aquamarine;
+}
+
+.box img {
+    height: 200px;
+    width: auto;
+}
